@@ -215,23 +215,23 @@ public class MapActivity extends AppCompatActivity {
         return nightModeFlags == Configuration.UI_MODE_NIGHT_YES;
     }
 
-    @Override
-    public void onBackPressed() {
-        // super.onBackPressed();
-        activity.runOnUiThread(() -> {
-            new AlertDialog.Builder(activity)
-                    .setTitle("您确定要退出吗？")
-                    .setMessage("退出将返回至连接页面。")
-                    .setCancelable(false)
-                    .setPositiveButton("是", (d, w) -> {
-                        activity.finish(); // 返回连接页面
-                    })
-                    .setPositiveButton("否", (d, w) -> {
-                        // 啥也不做
-                    })
-                    .show();
-        });
-    }
+//    @Override
+//    public void onBackPressed() {
+//        // super.onBackPressed();
+//        activity.runOnUiThread(() -> {
+//            new AlertDialog.Builder(activity)
+//                    .setTitle("您确定要退出吗？")
+//                    .setMessage("退出将返回至连接页面。")
+//                    .setCancelable(false)
+//                    .setPositiveButton("是", (d, w) -> {
+//                        activity.finish(); // 返回连接页面
+//                    })
+//                    .setPositiveButton("否", (d, w) -> {
+//                        // 啥也不做
+//                    })
+//                    .show();
+//        });
+//    }
     @Override protected void onResume() { super.onResume(); mapView.onResume(); }
     @Override protected void onPause() { super.onPause(); mapView.onPause(); }
     @Override protected void onDestroy() { super.onDestroy(); mapView.onDestroy(); instance = null; activity = null; }
