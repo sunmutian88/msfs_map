@@ -9,9 +9,9 @@
 
 # 下载发行版
 
-[适用于WIndows x64平台的MSFS Map电脑端程序](./Release/MSFSMap_Windows_x64.zip)
+[适用于WIndows x64平台的MSFS Map电脑端程序](https://github.com/sunmutian88/msfs_map/raw/refs/heads/main/Release/MSFSMap_Windows_x64.zip)
 
-[适用于Android平台的MSFS Map手机端程序](./Release/MSFSMap_Android.apk)
+[适用于Android平台的MSFS Map手机端程序](https://github.com/sunmutian88/msfs_map/raw/refs/heads/main/Release/MSFSMap_Android.apk)
 
 # 软件使用方法
 
