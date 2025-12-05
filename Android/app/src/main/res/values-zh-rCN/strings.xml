@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MSFS Map</string>
+    <string name="t0001">扫描 MSFS Map 电脑端二维码</string>
+    <string name="app_title">连接至 MSFS Map 电脑端</string>
+    <string name="ip_">IP 地址</string>
+    <string name="port_">端口(Port)</string>
+    <string name="pair_">配对码(Pair)</string>
+    <string name="pairfail">配对码错误</string>
+    <string name="_6">配对码(6位数字)</string>
+    <string name="gogogo">连接电脑端</string>
+    <string name="or_">或</string>
+    <string name="ScanCon">扫码连接</string>
+    <string name="goback">请返回上一页!</string>
+    <string name="qrerr">二维码格式错误</string>
+    <string name="poserr">接收坐标失败</string>
+    <string name="connok">当前状态: 已连接</string>
+    <string name="noconnok">当前状态: 未连接</string>
+    <string name="connfail">连接失败!</string>
+    <string name="connok2">已连接电脑端</string>
+    <string name="conning">连接中...</string>
+    <string name="conntimeout">连接超时</string>
+    <string name="te1">端口必须是数字!</string>
+    <string name="te2">请输入有效配对信息</string>
+    <string name="tip1">请在地图上长按选择导航目标</string>
+    <string name="tx">结束导航</string>
+    <string name="tx2">导航</string>
+    <string name="unpos">当前坐标: 未获取</string>
+    <string name="gy">归位</string>
+</resources>

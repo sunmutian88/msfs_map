@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MSFS Map</string>
+    <string name="t0001">掃描 MSFS Map 電腦端二維碼</string>
+    <string name="app_title">連接至 MSFS Map 電腦端</string>
+    <string name="ip_">IP 位址</string>
+    <string name="port_">連接埠(Port)</string>
+    <string name="pair_">配對碼(Pair)</string>
+    <string name="pairfail">配對碼錯誤</string>
+    <string name="_6">配對碼(6位數)</string>
+    <string name="gogogo">連接電腦端</string>
+    <string name="or_">或</string>
+    <string name="ScanCon">掃碼連接</string>
+    <string name="goback">請返回上一頁！</string>
+    <string name="qrerr">二維碼格式錯誤</string>
+    <string name="poserr">接收座標失敗</string>
+    <string name="connok">目前狀態: 已連接</string>
+    <string name="noconnok">目前狀態: 未連接</string>
+    <string name="connfail">連線失敗!</string>
+    <string name="connok2">已連接電腦端</string>
+    <string name="conning">連接中...</string>
+    <string name="conntimeout">連線逾時</string>
+    <string name="te1">連接埠必須是數字!</string>
+    <string name="te2">請輸入有效配對訊息</string>
+    <string name="tip1">請在地圖上長按選擇導航目標</string>
+    <string name="tx">結束導航</string>
+    <string name="tx2">導航</string>
+    <string name="unpos">當前座標: 未獲取</string>
+    <string name="gy">復位</string>
+</resources>

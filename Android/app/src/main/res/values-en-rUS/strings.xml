@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MSFS Map</string>
+    <string name="t0001">Scan the QR code on the MSFS Map desktop client.</string>
+    <string name="app_title">Connect to MSFS Map PC client</string>
+    <string name="ip_">IP</string>
+    <string name="port_">Port</string>
+    <string name="pair_">Pairing code</string>
+    <string name="pairfail">Pairing code error</string>
+    <string name="_6">Pairing code (6 digits)</string>
+    <string name="gogogo">Connect to PC</string>
+    <string name="or_">or</string>
+    <string name="ScanCon">Scan to connect</string>
+    <string name="goback">Please return to the previous page!</string>
+    <string name="qrerr">QR code format error!</string>
+    <string name="poserr">Failed to receive coordinates!</string>
+    <string name="connok">Current status: Connected</string>
+    <string name="noconnok">Current status: Not connected</string>
+    <string name="connfail">Connection failed!</string>
+    <string name="connok2">Already connected to computer</string>
+    <string name="conning">Connecting...</string>
+    <string name="conntimeout">Connection timeout</string>
+    <string name="te1">The port number must be a number!</string>
+    <string name="te2">Please enter valid pairing information.</string>
+    <string name="tip1">Please long press on the map to select your navigation destination.</string>
+    <string name="tx">End navigation</string>
+    <string name="tx2">Navigation</string>
+    <string name="unpos">Current coordinates: Not obtained</string>
+    <string name="gy">Reset</string>
+</resources>
