@@ -19,16 +19,20 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = true          // 开启混淆
-            isShrinkResources = true        // 去掉未使用资源
+            isMinifyEnabled = false          // 开启混淆
+            isShrinkResources = false        // 去掉未使用资源
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
         }
         debug {
-            isMinifyEnabled = false
-            isShrinkResources = false
+            isMinifyEnabled = false          // 开启混淆
+            isShrinkResources = false        // 去掉未使用资源
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
         }
     }
     compileOptions {
