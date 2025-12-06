@@ -89,6 +89,16 @@
 └─ README.md  (自述文件)
 ```
 
+# 打赏
+
+> 您的打赏是我持续开发的动力!
+
+![微信支付01](./打赏_tIp/WeChatPay_01.jpg)
+![微信支付02](./打赏_tIp/WeChatPay_02.jpg)
+![支付宝支付](./打赏_tIp/Alipay.jpg)
+
+### 谢谢!
+
 # 本软件遵循 CC BY-NC-SA 4.0 协议
 
 > 详情请查看 LICENSE
