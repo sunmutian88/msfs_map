@@ -93,9 +93,9 @@
 
 > 您的打赏是我持续开发的动力!
 
-![微信支付01](./打赏_tIp/WeChatPay_01.jpg)
-![微信支付02](./打赏_tIp/WeChatPay_02.jpg)
-![支付宝支付](./打赏_tIp/Alipay.jpg)
+![微信支付01](./tIp/WeChatPay_01.jpg)
+![微信支付02](./tIp/WeChatPay_02.jpg)
+![支付宝支付](./tIp/Alipay.jpg)
 
 ### 谢谢!
 
