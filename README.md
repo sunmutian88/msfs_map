@@ -2,7 +2,9 @@
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**MSFS Map** 是一个通过 SimConnect API 连接 Microsoft Flight Simulator 的实时地图工具。  
+> **⚠️ 注意：本分支 (`web_version`) 为纯 Web 版的独立项目*，主分支（`main`）保留了旧版代码及编译文件。
+
+**MSFS Map** 是一个通过 SimConnect API 连接 Microsoft Flight Simulator 的实时地图工具。
 **本版本为纯 Web 版**：电脑端运行后，自动启动内置 Web 服务器，同一局域网内的任何设备（手机、平板、电脑）只需用浏览器打开显示的地址，即可查看飞机实时位置、飞行数据和逆地理编码地址。
 
 > **不再需要手机客户端，也无需配对码**。一切通过浏览器完成。
@@ -18,13 +20,32 @@
 
 ## 📸 截图
 
-*（建议添加：程序窗口截图 + 手机浏览器地图截图）*
+![1779032346708](images/README/1779032346708.png)
+![1779032384313](images/README/1779032384313.png)
+
 
 ## 🚀 快速开始
 
 ### 下载预编译 exe（推荐）
+
 1. 前往 [Releases](https://github.com/sunmutian88/msfs_map/tree/web_version/releases) 下载最新 `MSFSMap_Web.exe`。
 2. 确保电脑与手机/平板连接 **同一局域网**。
 3. 运行 `MSFSMap_Web.exe`，窗口会显示类似 `http://192.168.1.100:8080` 的地址。
 4. 用手机/平板浏览器扫描二维码，或直接输入该地址。
 5. 浏览器中即可看到飞机位置（需要 MSFS 正在运行且飞机在空中或地面）。
+
+## 💰 支持与捐赠
+
+> 如果这个工具对你有帮助，欢迎捐赠支持 ☕
+
+- **波场链 TRON (TRX / TRC20)**
+  
+  `TS56wnaX23LxG5rB3WBJKei5zv88888888` (尾号8个8)
+  
+  或
+  
+  `TQgBcWcvJiksX3um5FbSr1kFjZ33333333` (尾号8个3)
+- **以太坊链 Ethereum / BSC / Polygon (ERC20 / BEP20)**
+  
+  `0x57B91fC456A773E9077C49eaF66D63f888888888` (尾号9个8)
+
