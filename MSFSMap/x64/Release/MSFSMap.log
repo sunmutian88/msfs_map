@@ -38,12 +38,12 @@ D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\resour
 D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\resource.h(1,1): warning C4828: 文件包含在偏移 0x54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
   (编译源文件“main.cpp”)
   
-D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(475,76): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
-D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(475,138): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
-D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(475,200): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
-D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(476,91): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
-D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(476,154): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
-D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(476,217): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(476,76): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(476,138): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(476,200): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(477,91): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(477,154): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
+D:\sunmutian\Programming\Project\ComprehensiveProject\MSFSMap\CPP\MSFSMap\main.cpp(477,217): warning C4838: 从“int”转换到“COLOR16”需要收缩转换
   正在生成代码
   Previous IPDB and IOBJ mismatch, fall back to full compilation.
   All 449 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.

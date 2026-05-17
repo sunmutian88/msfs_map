@@ -62,7 +62,7 @@ AppLanguage g_language = AppLanguage::English;
 
 // 字符串资源
 std::wstring GetAppTitle() {
-    return g_language == AppLanguage::Chinese ? L"MSFS 飞行地图" : L"MSFS Flight Map";
+    return g_language == AppLanguage::Chinese ? L"MSFS 飞行地图 (Web版)" : L"MSFS Flight Map (Web Version)";
 }
 std::wstring GetMainPrompt() {
     return g_language == AppLanguage::Chinese ? L"请在浏览器中打开以下地址" : L"Please open the following address in your browser";
