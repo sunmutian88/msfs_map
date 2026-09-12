@@ -93,6 +93,8 @@
 └─ README.md  (自述文件)
 ```
 
+## 🌟 打赏
+
 ![微信支付01](./tip/WeChatPay_01.jpg)
 ![微信支付02](./tip/WeChatPay_02.jpg)
 ![支付宝支付](./tip/Alipay.jpg)
