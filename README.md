@@ -44,19 +44,6 @@ git checkout web_version
 
 ## 🌟 打赏
 
-> 您的打赏是我持续开发的动力!
-
-- **波场链 TRON (TRX / TRC20)**
-  
-  `TS56wnaX23LxG5rB3WBJKei5zv88888888` (尾号8个8)
-  
-  或
-  
-  `TQgBcWcvJiksX3um5FbSr1kFjZ33333333` (尾号8个3)
-- **以太坊链 Ethereum / BSC / Polygon (ERC20 / BEP20)**
-  
-  `0x57B91fC456A773E9077C49eaF66D63f888888888` (尾号9个8)
-
 ![微信支付01](./tip/WeChatPay_01.jpg)
 ![微信支付02](./tip/WeChatPay_02.jpg)
 ![支付宝支付](./tip/Alipay.jpg)
